@@ -1,1 +1,1 @@
-# Rain-prediction-
+# Rain Prediction using Logistic Regression
